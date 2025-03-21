@@ -1,0 +1,3 @@
+Đây là một file lớn để thử nghiệm chia và đọc bằng nhiều Thread.
+Thread 1 sẽ đọc nửa đầu.
+Thread 2 sẽ đọc nửa sau.

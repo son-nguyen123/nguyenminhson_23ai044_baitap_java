@@ -1,0 +1,3 @@
+Xin chào, đây là bài tập xử lý song song.
+Chúc bạn học tốt!
+Java là ngôn ngữ tuyệt vời.

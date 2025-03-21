@@ -1,0 +1,4 @@
+Dòng 1: Xin chào
+Dòng 2: Đây là ví dụ về Thread
+Dòng 3: Đọc file từng dòng
+Dòng 4: Chúc bạn học tốt!
